@@ -1,0 +1,19 @@
+input.error{
+    border: 1px solid #E6594E;
+}
+
+input.highlight{
+    border: 1px solid #7abd54;
+}
+
+span.error,span.tip{
+    color: red;
+}
+
+span.tip{
+    color: #aaa;
+}
+
+span.valid{
+    width: 32px;
+}
